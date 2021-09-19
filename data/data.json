@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Marco Antonio",
+        "edad": "48",
+        "correo": "mfcortes@gmail.com"
+    },
+    {
+        "nombre": "Claudio Melelli",
+        "edad": "48",
+        "correo": "cmelelli@gmail.com"
+    },
+    {
+        "nombre": "Celeste",
+        "edad": "48",
+        "correo": "celeste@gmail.com"
+    }
+
+]
